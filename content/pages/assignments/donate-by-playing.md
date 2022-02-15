@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 49ee1162-96a3-a2a1-b82a-1509dbf30186
 title: 'Donate by Playing: A Fundraising Board Game for the International Federation
   of Red Cross and Red Crescent Societies'

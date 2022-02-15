@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Notes
 uid: 4d6c8832-7eef-adc8-9388-e59d050f3a65
 ---

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: f30e545a-eced-a806-975a-ff5e3884df61
 title: A Compass-Led Course
 uid: 33beed15-2a26-7baa-563e-831688524912

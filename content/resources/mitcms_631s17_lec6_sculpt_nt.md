@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-631-data-storytelling-studio-climate-change-spring-2017/a77d4ed062bc0576ad2f5349ff4583d3_MITCMS_631s17_lec6_sculpt_nt.pdf
+file: /media/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/a77d4ed062bc0576ad2f5349ff4583d3_MITCMS_631s17_lec6_sculpt_nt.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Class Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.631 S17 Lecture 6 notes: Data Sculptures'
 uid: a77d4ed0-62bc-0576-ad2f-5349ff4583d3

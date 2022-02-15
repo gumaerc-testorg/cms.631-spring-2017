@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-631-data-storytelling-studio-climate-change-spring-2017/b9f9819c0979edbcd64b31e38201e9da_cms-631s17-th.jpg
+file: /media/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/b9f9819c0979edbcd64b31e38201e9da_cms-631s17-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "What story does this animated graphic tell about climate change? ([Climate\
@@ -11,6 +11,8 @@ image_metadata:
   credit: ''
   image-alt: Animated image of multicolored spiral animation showing global average
     temperature increase.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: cms-631s17-th.jpg
 uid: b9f9819c-0979-edbc-d64b-31e38201e9da

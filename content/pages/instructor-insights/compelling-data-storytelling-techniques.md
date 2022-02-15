@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: f30e545a-eced-a806-975a-ff5e3884df61
 title: Compelling Data Storytelling Techniques
 uid: ed98817e-62a7-7490-1854-ee4bbe26d6d5

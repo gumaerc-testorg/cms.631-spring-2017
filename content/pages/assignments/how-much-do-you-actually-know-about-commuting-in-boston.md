@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 49ee1162-96a3-a2a1-b82a-1509dbf30186
 title: How Much Do You Actually Know About Commuting In Boston?
 uid: 3ecc29ca-fdc3-6b89-55c0-24a6966814ef

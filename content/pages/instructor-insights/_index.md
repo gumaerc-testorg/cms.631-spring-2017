@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: f30e545a-eced-a806-975a-ff5e3884df61
 ---
@@ -52,20 +54,6 @@ HASS ![](/images/educator/icon-question-hass.png)
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Five rows of narrow white tables and black chairs facing the front of the classroom. Sliding chalkboards at the front and side of the classroom.]({{< resource_file 3396d9cd-d7a9-6cb4-1f35-9d2c3eb637ce >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Studio
-    
-    Studio sessions were held in a classroom with moveable tables and chairs, sliding chalkboards, and an AV system.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

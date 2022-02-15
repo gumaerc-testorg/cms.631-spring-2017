@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 49ee1162-96a3-a2a1-b82a-1509dbf30186
 title: Save the Bees (2017)
 uid: 53a0ec2c-60ae-c84c-85e1-fda946c7662d

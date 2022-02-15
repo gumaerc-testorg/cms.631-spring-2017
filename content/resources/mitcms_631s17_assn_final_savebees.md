@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-631-data-storytelling-studio-climate-change-spring-2017/8b62597fc5d753895d837c6ab8c10be0_MITCMS_631s17_assn_final_savebees.pdf
+file: /media/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/8b62597fc5d753895d837c6ab8c10be0_MITCMS_631s17_assn_final_savebees.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Save the Bees (2017)
+parent_type: CourseSection
 resourcetype: Document
 title: 'Data Storytelling Studio: Climate Change final project - Save the Bees presentation'
 uid: 8b62597f-c5d7-5389-5d83-7c6ab8c10be0
