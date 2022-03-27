@@ -8,6 +8,7 @@ ocw_type: OCWFile
 parent_title: 'Donate by Playing: A Fundraising Board Game for the International Federation
   of Red Cross and Red Crescent Societies'
 parent_type: CourseSection
+parent_uid: 360d33f9-0d12-9b01-8e99-9a7f4b0198de
 resourcetype: Document
 title: 'Data Storytelling Studio: Climate Change - cards for Donate by Playing game
   assignment'

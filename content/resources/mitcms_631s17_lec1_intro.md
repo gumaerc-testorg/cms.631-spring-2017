@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Notes
 parent_type: CourseSection
+parent_uid: 4d6c8832-7eef-adc8-9388-e59d050f3a65
 resourcetype: Document
 title: 'CMS.631 S17 Lecture 1 slides: Course Overview and Asking Questions'
 uid: 1cad38b6-17e6-7bbf-4122-cd1fb252df0b

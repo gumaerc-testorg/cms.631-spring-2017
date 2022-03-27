@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Save the Bees (2017)
 parent_type: CourseSection
+parent_uid: 53a0ec2c-60ae-c84c-85e1-fda946c7662d
 resourcetype: Image
 title: MITCMS_631s17_assn_savebees.jpg
 uid: 2a66e8b4-91c5-6714-0896-349ba3a9be38

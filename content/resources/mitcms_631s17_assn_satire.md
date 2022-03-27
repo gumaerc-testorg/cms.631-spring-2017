@@ -12,6 +12,7 @@ ocw_type: OCWImage
 parent_title: "Affluent White Bostonians Unfairly Targeted by Stop and Frisk Practices\u2026\
   Mostly While Leaving SoulCycle"
 parent_type: CourseSection
+parent_uid: 5a80417e-2e1e-07c9-f5f7-633769658e73
 resourcetype: Image
 title: MITCMS_631s17_assn_satire.jpg
 uid: 71663c52-9c68-a856-3ad1-eb8d346e5e86

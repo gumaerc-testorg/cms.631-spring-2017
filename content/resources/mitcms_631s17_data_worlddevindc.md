@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 49ee1162-96a3-a2a1-b82a-1509dbf30186
 resourcetype: Other
 title: MITCMS_631s17_data_worlddevindc.zip
 uid: ed5555a5-13ab-dfda-c253-c08fe25b202d

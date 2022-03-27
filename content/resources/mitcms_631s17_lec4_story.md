@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Notes
 parent_type: CourseSection
+parent_uid: 4d6c8832-7eef-adc8-9388-e59d050f3a65
 resourcetype: Document
 title: 'CMS.631 S17 Lecture 4 slides: Telling a Story'
 uid: aee56685-1353-5269-b48f-4aa12eabd2cb

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Save the Bees (2017)
 parent_type: CourseSection
+parent_uid: 53a0ec2c-60ae-c84c-85e1-fda946c7662d
 resourcetype: Document
 title: 'Data Storytelling Studio: Climate Change final project - Save the Bees presentation'
 uid: 8b62597f-c5d7-5389-5d83-7c6ab8c10be0

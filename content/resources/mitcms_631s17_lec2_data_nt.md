@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Notes
 parent_type: CourseSection
+parent_uid: 4d6c8832-7eef-adc8-9388-e59d050f3a65
 resourcetype: Document
 title: 'CMS.631 S17 Lecture 2 notes: Getting and Cleaning Data'
 uid: e39149be-d24e-6f4b-a282-9f9acb17c710

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: A Compass-Led Course
 parent_type: CourseSection
+parent_uid: 33beed15-2a26-7baa-563e-831688524912
 resourcetype: Image
 title: JL.jpg
 uid: 59d10138-8146-419e-146d-fd2c3ca75e85

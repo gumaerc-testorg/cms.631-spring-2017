@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Class Notes
 parent_type: CourseSection
+parent_uid: 4d6c8832-7eef-adc8-9388-e59d050f3a65
 resourcetype: Document
 title: 'CMS.631 S17 Lecture 8 slides: Participatory data games'
 uid: 44d609be-d01f-ac52-e0da-5a2c450bb4dc

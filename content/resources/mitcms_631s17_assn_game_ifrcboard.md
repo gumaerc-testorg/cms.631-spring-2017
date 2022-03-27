@@ -12,6 +12,7 @@ ocw_type: OCWFile
 parent_title: 'Donate by Playing: A Fundraising Board Game for the International Federation
   of Red Cross and Red Crescent Societies'
 parent_type: CourseSection
+parent_uid: 360d33f9-0d12-9b01-8e99-9a7f4b0198de
 resourcetype: Image
 title: MITCMS_631s17_assn_game_ifrcboard.jpg
 uid: a377bbf1-8842-eeb1-1d73-49372e15705f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 00cc71f5-0edc-6211-dea8-7de61cae8c25
 resourcetype: Document
 title: 'Data Science for Good: What Problems Fit?'
 uid: 45bf2a26-5814-7876-84eb-9b7e0ec9f44b

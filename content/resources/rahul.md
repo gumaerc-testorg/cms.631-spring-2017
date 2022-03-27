@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: f30e545a-eced-a806-975a-ff5e3884df61
 resourcetype: Image
 title: Rahul.jpg
 uid: 24326424-0fe2-bd78-03f0-6038e40077e2

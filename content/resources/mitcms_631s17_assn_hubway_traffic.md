@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: How Much Do You Actually Know About Commuting In Boston?
 parent_type: CourseSection
+parent_uid: 3ecc29ca-fdc3-6b89-55c0-24a6966814ef
 resourcetype: Image
 title: MITCMS_631s17_assn_hubway_traffic.png
 uid: 1291d746-4e3b-7324-ff8e-1e329d37e206
