@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 00cc71f5-0edc-6211-dea8-7de61cae8c25
 ---
@@ -123,7 +124,7 @@ Robbins, N. "[When Should I Use Logarithmic Scales in My Charts and Graphs?](htt
 
 ### Graduate Readings (focus on high-level takeaways)
 
-Koschinsky, J. "[Data Science for Good: What Problems Fit?" (PDF)]({{< baseurl >}}/resources/mitcms_631s17_koschinsky_2015) (Courtesy of Julia Koschinsky. License CC BY)
+Koschinsky, J. "{{< resource_link 45bf2a26-5814-7876-84eb-9b7e0ec9f44b "Data Science for Good: What Problems Fit?\" (PDF)" >}} (Courtesy of Julia Koschinsky. License CC BY)
 
 Brennan, M. “[Can computers be racist? Big data, inequality, and discrimination.](http://www.fordfoundation.org/ideas/equals-change-blog/posts/can-computers-be-racist-big-data-inequality-and-discrimination/)” Ford Foundation, 2015.
 

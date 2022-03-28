@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 49ee1162-96a3-a2a1-b82a-1509dbf30186
 ---
@@ -175,7 +176,7 @@ Hubway data challenges: [2011-2013](http://hubwaydatachallenge.org/) / [2017](
 
 NYC tree census data: [2015](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35) / [2005](https://data.cityofnewyork.us/Environment/2005-Street-Tree-Census/29bw-z7pj) / [1995](https://data.cityofnewyork.us/Environment/1995-Street-Tree-Census/kyad-zm4j)
 
-World Bank CO2 emissions: [global](https://data.worldbank.org/topic/climate-change) or [per country (ZIP)]({{< baseurl >}}/resources/mitcms_631s17_data_worlddevindc) (This file contains: 2 .csv files.)
+World Bank CO2 emissions: [global](https://data.worldbank.org/topic/climate-change) or {{< resource_link ed5555a5-13ab-dfda-c253-c08fe25b202d "per country (ZIP)" >}} (This file contains: 2 .csv files.)
 
 Or any other climate change-related dataset you are really excited about
 
@@ -493,9 +494,9 @@ Write up your project on the class blog. Include a short title for your project,
 
 _Sample student work: Participatory data games_
 
-[Donate by Playing: A Fundraising Board Game for the International Federation of Red Cross and Red Crescent Societies]({{< baseurl >}}/pages/assignments/donate-by-playing) (2016)
+{{< resource_link 360d33f9-0d12-9b01-8e99-9a7f4b0198de "Donate by Playing: A Fundraising Board Game for the International Federation of Red Cross and Red Crescent Societies" >}} (2016)
 
-[How Much Do You Actually Know About Commuting In Boston?]({{< baseurl >}}/pages/assignments/how-much-do-you-actually-know-about-commuting-in-boston) \[Hubway experience quiz\] (2016)
+{{< resource_link 3ecc29ca-fdc3-6b89-55c0-24a6966814ef "How Much Do You Actually Know About Commuting In Boston?" >}} \[Hubway experience quiz\] (2016)
 
 
 {{< tdclose >}}
@@ -609,7 +610,7 @@ Write up your project on the class blog. Include a short title for your project,
 
 _Homework 18: Start final project_
 
-Read the [final project requirements]({{< baseurl >}}/pages/assignments/final-project-requirements). Think about what topic, datasets, and output technique you want to explore for your final project. This could be building on one of the sketches you did before, or starting something new.
+Read the {{< resource_link a7948c29-5d38-d3a1-af5d-d7583a5b812d "final project requirements" >}}. Think about what topic, datasets, and output technique you want to explore for your final project. This could be building on one of the sketches you did before, or starting something new.
 
 
 {{< tdclose >}}
@@ -688,11 +689,11 @@ Prepare a 5 minute presentation of your final project. This could be us playing 
 
 _Sample student work: Final projects_
 
-[BeeSmart]({{< baseurl >}}/pages/assignments/beesmart) (2017)
+{{< resource_link df923fd4-b9a9-a390-787a-1466e46a0691 "BeeSmart" >}} (2017)
 
-[Save the Bees]({{< baseurl >}}/pages/assignments/save-the-bees) (2017)
+{{< resource_link 53a0ec2c-60ae-c84c-85e1-fda946c7662d "Save the Bees" >}} (2017)
 
-[Affluent White Bostonians Unfairly Targeted by Stop and Frisk Practices…Mostly While Leaving SoulCycle]({{< baseurl >}}/pages/assignments/affluent-white-bostonians-unfairly-targeted-by-stop-and-frisk-practices...mostly-while-leaving-soulcycle) (2016)
+{{< resource_link 5a80417e-2e1e-07c9-f5f7-633769658e73 "Affluent White Bostonians Unfairly Targeted by Stop and Frisk Practices…Mostly While Leaving SoulCycle" >}} (2016)
 
 
 {{< tdclose >}}

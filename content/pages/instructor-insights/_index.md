@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: f30e545a-eced-a806-975a-ff5e3884df61
 ---
@@ -18,12 +19,12 @@ Rahul Bhargava in the MIT Media Lab.
 
 Below, Rahul Bhargava describes various aspects of how he teaches _CMS.631 Data Storytelling Studio: Climate Change_.
 
-*   [A Compass-Led Course]({{< baseurl >}}/pages/instructor-insights/a-compass-led-course)
-*   [Misconceptions about Data Storytelling]({{< baseurl >}}/pages/instructor-insights/misconceptions-about-data-storytelling)
-*   [Thinking with Climate Data]({{< baseurl >}}/pages/instructor-insights/thinking-with-climate-data)
-*   [Tips for Making Teamwork Work Well]({{< baseurl >}}/pages/instructor-insights/tips-for-making-teamwork-work-well)
-*   [Using a Class Blog for Learning]({{< baseurl >}}/pages/instructor-insights/using-a-class-blog-for-learning)
-*   [Making Things Local]({{< baseurl >}}/pages/instructor-insights/making-things-local)
+*   {{< resource_link 33beed15-2a26-7baa-563e-831688524912 "A Compass-Led Course" >}}
+*   {{< resource_link f443cf77-0c83-3386-6eb4-1188b7019d8a "Misconceptions about Data Storytelling" >}}
+*   {{< resource_link 9a0716fe-5de0-07d1-3744-f4693a908c54 "Thinking with Climate Data" >}}
+*   {{< resource_link d3cc71a7-4937-eb86-be41-28b9d95b0366 "Tips for Making Teamwork Work Well" >}}
+*   {{< resource_link 2c8c1e3c-49ee-995f-644b-7b77eae017a8 "Using a Class Blog for Learning" >}}
+*   {{< resource_link 43e96554-e255-dd49-d52a-2f23f5869f5d "Making Things Local" >}}
 
 Student Insights
 ----------------
@@ -32,9 +33,9 @@ Student Insights
 
 Below, students in the course describe the data storytelling techniques they found particularly compelling, offer advice to future students, and share tips with educators interested in facilitating a similar learning experience.
 
-*   [Compelling Data Storytelling Techniques]({{< baseurl >}}/pages/instructor-insights/compelling-data-storytelling-techniques)
-*   [Advice for Students]({{< baseurl >}}/pages/instructor-insights/advice-for-students)
-*   [Tips for Educators]({{< baseurl >}}/pages/instructor-insights/tips-for-educators)
+*   {{< resource_link ed98817e-62a7-7490-1854-ee4bbe26d6d5 "Compelling Data Storytelling Techniques" >}}
+*   {{< resource_link 63b72bf4-f7d6-541c-2cd9-1b52b518bc25 "Advice for Students" >}}
+*   {{< resource_link a84e6307-5eb5-dc2a-fe37-5d1db154c8b7 "Tips for Educators" >}}
 
 Curriculum Information
 ----------------------

@@ -20,11 +20,11 @@ By Reem Alfaiz, Gary Burnett, Phillip D. Graham, and Argyro Nicolaou. (Used with
 Materials
 ---------
 
-[Presentation slides about the game (PDF)]({{< baseurl >}}/resources/mitcms_631s17_assn_game_ifrcslides)
+{{< resource_link e2c7b9a2-8b57-d48f-aa49-0804ed40d61b "Presentation slides about the game (PDF)" >}}
 
-[Game board (JPG - 6.2MB)]({{< baseurl >}}/resources/mitcms_631s17_assn_game_ifrcboard)
+{{< resource_link a377bbf1-8842-eeb1-1d73-49372e15705f "Game board (JPG - 6.2MB)" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Game cards (PDF - 1.2MB)]({{< baseurl >}}/resources/mitcms_631s17_assn_game_ifrccards)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link aa18516a-d49b-984d-10b3-e18668586556 "Game cards (PDF - 1.2MB)" >}}
 
 Writeup
 -------

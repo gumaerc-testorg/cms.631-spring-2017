@@ -13,6 +13,7 @@ image_metadata:
     temperature increase.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: cms-631s17-th.jpg
 uid: b9f9819c-0979-edbc-d64b-31e38201e9da
