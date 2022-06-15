@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'The page gives a detailed description of the final project requirements
+  and a few suggestions. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

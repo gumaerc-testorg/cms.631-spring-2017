@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes an online quiz exploring commuting options in the
+  Boston area, viewed through the Hubway bikeshare service.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: How Much Do You Actually Know About Commuting In Boston?
 uid: 3ecc29ca-fdc3-6b89-55c0-24a6966814ef
 ---
 
-![Street scene in a busy urban square, with parked Hubway bicycles, cars on street, pedestrians on sidewalk and crossing the street, and entrance to a subway stop in the distance.]({{< resource_file b92d4f65-63eb-308c-01a5-742363b4fc80 >}})
+{{< resource b92d4f65-63eb-308c-01a5-742363b4fc80 >}}
 
 Several modes of transportation - walking, bike share, personal cars, and a subway stop - in Harvard Square. (Courtesy of [Connie](https://www.flickr.com/photos/ironypoisoning/22238739609/ ) on Flickr. License CC BY-NC-SA.)
 
@@ -35,19 +37,19 @@ Our audience is 22-30 year old young professionals who live in the Boston area a
 
 Our goals are to increase ridership among our specified market by 10% over YTD performance. For this experiment which has some limitations – namely that we’re not actually Hubway, that we’re using BuzzFeed’s community sharing profile as opposed to its viral advertising and don’t actually have BuzzFeed support, we’d like to have 500 views/clicks over the week in which we launched the quiz with a 50% completion rate. To date we have a total of 108 views.
 
-![Graph of traffic history for the Buzzfeed quiz.]({{< resource_file 1291d746-4e3b-7324-ff8e-1e329d37e206 >}})
+{{< resource 1291d746-4e3b-7324-ff8e-1e329d37e206 >}}
 
 Traffic to the BuzzFeed quiz.
 
 We’ve also received some support from Hubway itself. Last week Kendra tweeted out the link copying both BuzzFeed and Hubway on the link:
 
-![Tweet about the quiz by a team member, tagging Buzzfeed and Hubway.]({{< resource_file 57cfa48a-68fc-e9c4-ee26-2d75ac3ed2c6 >}})
+{{< resource 57cfa48a-68fc-e9c4-ee26-2d75ac3ed2c6 >}}
 
 Kendra's tweet, tagging BuzzFeed and Hubway.
 
 Hubway retweeted it:
 
-![Twitter notification that Hubway liked and retweeted the original tweet.]({{< resource_file a10de764-07cf-f426-8e09-b2de23d9841c >}})
+{{< resource a10de764-07cf-f426-8e09-b2de23d9841c >}}
 
 Twitter notifications about Hubway's activity.
 

@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This page presents the agenda for each class session, and lecture notes
+  used for some class sessions.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Class Notes
 uid: 4d6c8832-7eef-adc8-9388-e59d050f3a65
 ---
@@ -70,9 +71,9 @@ Course overview & asking questions
 {{< tdopen >}}
 
 
-{{< resource_link 1cad38b6-17e6-7bbf-4122-cd1fb252df0b "Lecture 1 slides (PDF - 1.3MB)" >}}
+{{% resource_link 1cad38b6-17e6-7bbf-4122-cd1fb252df0b "Lecture 1 slides (PDF - 1.3MB)" %}}
 
-{{< resource_link 6d44255f-5a2d-0c5c-2143-88fbdfd57272 "Lecture 1 notes (PDF)" >}}
+{{% resource_link 6d44255f-5a2d-0c5c-2143-88fbdfd57272 "Lecture 1 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -111,9 +112,9 @@ Getting and cleaning data
 {{< tdopen >}}
 
 
-{{< resource_link 0a8c7add-8225-3f8c-d17b-32eee4535775 "Lecture 2 slides (PDF - 1.3MB)" >}}
+{{% resource_link 0a8c7add-8225-3f8c-d17b-32eee4535775 "Lecture 2 slides (PDF - 1.3MB)" %}}
 
-{{< resource_link e39149be-d24e-6f4b-a282-9f9acb17c710 "Lecture 2 notes (PDF)" >}}
+{{% resource_link e39149be-d24e-6f4b-a282-9f9acb17c710 "Lecture 2 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -140,9 +141,9 @@ Analyzing data
 {{< tdopen >}}
 
 
-{{< resource_link b40d8a69-f9d9-054f-44bf-319daeda0125 "Lecture 3 slides (PDF - 2.1MB)" >}}
+{{% resource_link b40d8a69-f9d9-054f-44bf-319daeda0125 "Lecture 3 slides (PDF - 2.1MB)" %}}
 
-{{< resource_link cfa4d05e-21ff-f8cf-f2cc-1cfcd38e62d9 "Lecture 3 notes (PDF - 1.1MB)" >}}
+{{% resource_link cfa4d05e-21ff-f8cf-f2cc-1cfcd38e62d9 "Lecture 3 notes (PDF - 1.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -169,9 +170,9 @@ Telling a data-driven story
 {{< tdopen >}}
 
 
-{{< resource_link aee56685-1353-5269-b48f-4aa12eabd2cb "Lecture 4 slides (PDF - 2.2MB)" >}}
+{{% resource_link aee56685-1353-5269-b48f-4aa12eabd2cb "Lecture 4 slides (PDF - 2.2MB)" %}}
 
-{{< resource_link 903199df-b3d3-154a-d401-431dbeb5924d "Lecture 4 notes (PDF - 1.3MB)" >}}
+{{% resource_link 903199df-b3d3-154a-d401-431dbeb5924d "Lecture 4 notes (PDF - 1.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -203,9 +204,9 @@ Overview
 {{< tdopen >}}
 
 
-{{< resource_link bcc72b19-a3ef-3000-8cc7-33cf3c286df8 "Lecture 5 slides (PDF - 1.5MB)" >}}
+{{% resource_link bcc72b19-a3ef-3000-8cc7-33cf3c286df8 "Lecture 5 slides (PDF - 1.5MB)" %}}
 
-{{< resource_link 3567cb08-e04e-a5ad-7176-3b1f101f99c1 "Lecture 5 notes (PDF)" >}}
+{{% resource_link 3567cb08-e04e-a5ad-7176-3b1f101f99c1 "Lecture 5 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -277,9 +278,9 @@ Overview
 {{< tdopen >}}
 
 
-{{< resource_link ee593836-56f0-1d5e-9edf-d82bdcf178d7 "Lecture 6 slides (PDF - 1.2MB)" >}}
+{{% resource_link ee593836-56f0-1d5e-9edf-d82bdcf178d7 "Lecture 6 slides (PDF - 1.2MB)" %}}
 
-{{< resource_link a77d4ed0-62bc-0576-ad2f-5349ff4583d3 "Lecture 6 notes (PDF)" >}}
+{{% resource_link a77d4ed0-62bc-0576-ad2f-5349ff4583d3 "Lecture 6 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -348,9 +349,9 @@ Overview
 {{< tdopen >}}
 
 
-{{< resource_link ba2881ae-bc9b-e17e-f431-f378d913174e "Lecture 7 slides (PDF)" >}}
+{{% resource_link ba2881ae-bc9b-e17e-f431-f378d913174e "Lecture 7 slides (PDF)" %}}
 
-{{< resource_link 32dad581-8a41-fc2f-9a7e-f2886f5e8c32 "Lecture 7 notes (PDF)" >}}
+{{% resource_link 32dad581-8a41-fc2f-9a7e-f2886f5e8c32 "Lecture 7 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -436,9 +437,9 @@ Overview
 {{< tdopen >}}
 
 
-{{< resource_link 44d609be-d01f-ac52-e0da-5a2c450bb4dc "Lecture 8 slides (PDF)" >}}
+{{% resource_link 44d609be-d01f-ac52-e0da-5a2c450bb4dc "Lecture 8 slides (PDF)" %}}
 
-{{< resource_link 3a7e12e3-ffb0-49c6-15ef-e4dcc56c17bd "Lecture 8 notes (PDF)" >}}
+{{% resource_link 3a7e12e3-ffb0-49c6-15ef-e4dcc56c17bd "Lecture 8 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -507,9 +508,9 @@ Overview
 {{< tdopen >}}
 
 
-{{< resource_link 17c134dc-96dd-c999-8a4c-0e7774a210d2 "Lecture 9 slides (PDF - 1.9MB)" >}}
+{{% resource_link 17c134dc-96dd-c999-8a4c-0e7774a210d2 "Lecture 9 slides (PDF - 1.9MB)" %}}
 
-{{< resource_link 6759cbfc-d3fd-7305-3b4a-dee2ff0fe8a4 "Lecture 9 notes (PDF)" >}}
+{{% resource_link 6759cbfc-d3fd-7305-3b4a-dee2ff0fe8a4 "Lecture 9 notes (PDF)" %}}
 
 
 {{< tdclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page presents details about the Save the Bees final project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,13 +11,13 @@ title: Save the Bees (2017)
 uid: 53a0ec2c-60ae-c84c-85e1-fda946c7662d
 ---
 
-![US map with interactive slider 2016-2050, showing states with select food crops.]({{< resource_file 2a66e8b4-91c5-6714-0896-349ba3a9be38 >}})
+{{< resource 2a66e8b4-91c5-6714-0896-349ba3a9be38 >}}
 
 Save the Bees used an interactive map highlighting bee-dependent food crops and risks over time.
 
 By Almaha Almalki, Sean Soni, Jingxian Zhang, and anonymous student.
 
-{{< resource_link 8b62597f-c5d7-5389-5d83-7c6ab8c10be0 "Save the Bees presentation slides (PDF - 3.2MB)" >}}
+{{% resource_link 8b62597f-c5d7-5389-5d83-7c6ab8c10be0 "Save the Bees presentation slides (PDF - 3.2MB)" %}}
 
 Overview
 --------

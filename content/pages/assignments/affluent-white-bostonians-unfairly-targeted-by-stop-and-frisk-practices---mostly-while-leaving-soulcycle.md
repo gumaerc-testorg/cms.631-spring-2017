@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes a final project using satire to communicate data
+  about stop and frisk practices and race.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,7 +13,7 @@ title: "Affluent White Bostonians Unfairly Targeted by Stop and Frisk Practices\
 uid: 5a80417e-2e1e-07c9-f5f7-633769658e73
 ---
 
-_![Webpage screenshot of the project, with martini glass image and photo of young blond white woman in exercise clothes.]({{< resource_file 71663c52-9c68-a856-3ad1-eb8d346e5e86 >}})_
+_{{< resource 71663c52-9c68-a856-3ad1-eb8d346e5e86 >}}_
 
 Screenshot of the project webpage.
 
@@ -31,7 +33,7 @@ We wanted to see if satire could be used to both inform, i.e. like real news, as
 
 The main dataset used in this report is used the [Stop and Frisk (FIO) dataset](https://web.archive.org/web/20170917214354/https://data.cityofboston.gov/Public-Safety/Boston-Police-Department-FIO/xmmk-i78r) that the Boston Police Department released after being sued by the American Civil Liberties Union (ACLU). Catherine D’Ignazio provided us with a geocoded version of the dataset that we used to create maps. The data indicate that the areas with the highest density of stop and frisk incidents are also the areas with more people of color, and most people that are targeted by stop and frisks are black men. We also used US Census data to provide the community descriptors – median incomes, and racial demographics – of the communities mentioned in the article (both the satirical data and the real data), along with Catherine’s extensive knowledge of Gisele Bündchen and Tom Brady.
 
-The website is hosted by [GitHub](https://github.com/) and was created in Jekyll. The annotations were created in [Genius](http://genius.com/), and draw from a combination of the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[ACLU report](https://www.aclum.org/en), Census data, and the actual stop and frisk dataset. The satirical article includes the same stop and frisk statistics, but flips them so they apply to affluent, white citizens in Brookline and Milton. It also cites general race and income information for those neighborhoods. To avoid copyrighting issues, we included a photo of Gisele that is available for public use and photos of friends who agreed to be photographed for this project.
+The website is hosted by [GitHub](https://github.com/) and was created in Jekyll. The annotations were created in [Genius](http://genius.com/), and draw from a combination of the [ACLU report](https://www.aclum.org/en), Census data, and the actual stop and frisk dataset. The satirical article includes the same stop and frisk statistics, but flips them so they apply to affluent, white citizens in Brookline and Milton. It also cites general race and income information for those neighborhoods. To avoid copyrighting issues, we included a photo of Gisele that is available for public use and photos of friends who agreed to be photographed for this project.
 
 For the maps, we used [cartoDB](https://cartodb.com/)’s density map function to show the density of stop and frisk incidents happening in the areas around Boston. The density map split the data into seven different bins. In cartoDB, we altered the code to change the color scheme (cartoDB only has one inverted color scheme, which is from white to pink). We also created a manipulated map, where we flipped the color scheme, and used PowerPoint to add stop and frisk incidents to the Brookline and Milton areas. We used [JuxtaposeJS](https://juxtapose.knightlab.com/) to create a map with a slider that moves between the actual and manipulated versions.
 
@@ -57,7 +59,7 @@ Then the interviewee would go through the website. We used a screen recording th
 
 As a final information gathering mechanism, we installed Google Analytics on the site to track visitor behavior.
 
-![Traffic metrics for the page from Google Analytics.]({{< resource_file 11d708be-3822-0d52-e32e-230d50e3224a >}})
+{{< resource 11d708be-3822-0d52-e32e-230d50e3224a >}}
 
 Google Analytics visitor data for the page.
 

@@ -1,16 +1,18 @@
 ---
 content_type: page
+description: 'This page describes the deliverables for each homework assignment, the
+  five sketch projects, and the final project, along with a few examples of student
+  work. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 49ee1162-96a3-a2a1-b82a-1509dbf30186
 ---
 
 This page describes each of the homework assignments, listed by the session in which they are due. It also provides some **suggested datasets** for each sketch, and selected examples of **student work** from the 2017 and 2016 classes on some assignments and the final project. (While the 2016 version of the class wasn't specifically focused on climate change, the sample works are good illustrations of overall goals of the assignments.)
 
-See the syllabus [Course Requirements]({{< baseurl >}}/pages/syllabus#course_reqs) section for more details on these assignments and grading criteria.
+See the syllabus {{% resource_link b5c6793d-89a7-6651-965c-2e307d908dd0 "Course Requirements" "#course_reqs" %}} section for more details on these assignments and grading criteria.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -176,7 +178,7 @@ Hubway data challenges: [2011-2013](http://hubwaydatachallenge.org/) / [2017](
 
 NYC tree census data: [2015](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35) / [2005](https://data.cityofnewyork.us/Environment/2005-Street-Tree-Census/29bw-z7pj) / [1995](https://data.cityofnewyork.us/Environment/1995-Street-Tree-Census/kyad-zm4j)
 
-World Bank CO2 emissions: [global](https://data.worldbank.org/topic/climate-change) or {{< resource_link ed5555a5-13ab-dfda-c253-c08fe25b202d "per country (ZIP)" >}} (This file contains: 2 .csv files.)
+World Bank CO2 emissions: [global](https://data.worldbank.org/topic/climate-change) or {{% resource_link ed5555a5-13ab-dfda-c253-c08fe25b202d "per country (ZIP)" %}} (This file contains: 2 .csv files.)
 
 Or any other climate change-related dataset you are really excited about
 
@@ -494,9 +496,9 @@ Write up your project on the class blog. Include a short title for your project,
 
 _Sample student work: Participatory data games_
 
-{{< resource_link 360d33f9-0d12-9b01-8e99-9a7f4b0198de "Donate by Playing: A Fundraising Board Game for the International Federation of Red Cross and Red Crescent Societies" >}} (2016)
+{{% resource_link 360d33f9-0d12-9b01-8e99-9a7f4b0198de "Donate by Playing: A Fundraising Board Game for the International Federation of Red Cross and Red Crescent Societies" %}} (2016)
 
-{{< resource_link 3ecc29ca-fdc3-6b89-55c0-24a6966814ef "How Much Do You Actually Know About Commuting In Boston?" >}} \[Hubway experience quiz\] (2016)
+{{% resource_link 3ecc29ca-fdc3-6b89-55c0-24a6966814ef "How Much Do You Actually Know About Commuting In Boston?" %}} \[Hubway experience quiz\] (2016)
 
 
 {{< tdclose >}}
@@ -610,7 +612,7 @@ Write up your project on the class blog. Include a short title for your project,
 
 _Homework 18: Start final project_
 
-Read the {{< resource_link a7948c29-5d38-d3a1-af5d-d7583a5b812d "final project requirements" >}}. Think about what topic, datasets, and output technique you want to explore for your final project. This could be building on one of the sketches you did before, or starting something new.
+Read the {{% resource_link a7948c29-5d38-d3a1-af5d-d7583a5b812d "final project requirements" %}}. Think about what topic, datasets, and output technique you want to explore for your final project. This could be building on one of the sketches you did before, or starting something new.
 
 
 {{< tdclose >}}
@@ -689,11 +691,11 @@ Prepare a 5 minute presentation of your final project. This could be us playing 
 
 _Sample student work: Final projects_
 
-{{< resource_link df923fd4-b9a9-a390-787a-1466e46a0691 "BeeSmart" >}} (2017)
+{{% resource_link df923fd4-b9a9-a390-787a-1466e46a0691 "BeeSmart" %}} (2017)
 
-{{< resource_link 53a0ec2c-60ae-c84c-85e1-fda946c7662d "Save the Bees" >}} (2017)
+{{% resource_link 53a0ec2c-60ae-c84c-85e1-fda946c7662d "Save the Bees" %}} (2017)
 
-{{< resource_link 5a80417e-2e1e-07c9-f5f7-633769658e73 "Affluent White Bostonians Unfairly Targeted by Stop and Frisk Practices…Mostly While Leaving SoulCycle" >}} (2016)
+{{% resource_link 5a80417e-2e1e-07c9-f5f7-633769658e73 "Affluent White Bostonians Unfairly Targeted by Stop and Frisk Practices…Mostly While Leaving SoulCycle" %}} (2016)
 
 
 {{< tdclose >}}

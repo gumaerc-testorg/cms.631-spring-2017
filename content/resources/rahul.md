@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/243264240fe2bd7803f06038e40077e2_Rahul.jpg
+file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/243264240fe2bd7803f06038e40077e2_Rahul.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

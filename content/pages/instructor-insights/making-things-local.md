@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +13,7 @@ uid: 43e96554-e255-dd49-d52a-2f23f5869f5d
 
 _In this section, Rahul Bhargava discusses how using local materials in the data sculpture activity facilitates participant engagement_.
 
-One key experience in the _Data Storytelling Studio_ is the making of data sculptures. I show up to class with a bunch of craft materials and a one page data handout with a bar chart, histogram, or pie chart about some topic (in Spring 2017 that topic was {{< resource_link 9a0716fe-5de0-07d1-3744-f4693a908c54 "climate change" >}}). I tell students to think with their hands for five minutes and then, in pairs, build something with the craft materials that represents something they see in the data, such as a factoid or a comparison. I tell them they are not allowed to make a bar chart out of pipe cleaners! I encourage them to do something creative. 
+One key experience in the _Data Storytelling Studio_ is the making of data sculptures. I show up to class with a bunch of craft materials and a one page data handout with a bar chart, histogram, or pie chart about some topic (in Spring 2017 that topic was {{% resource_link 9a0716fe-5de0-07d1-3744-f4693a908c54 "climate change" %}}). I tell students to think with their hands for five minutes and then, in pairs, build something with the craft materials that represents something they see in the data, such as a factoid or a comparison. I tell them they are not allowed to make a bar chart out of pipe cleaners! I encourage them to do something creative. 
 
 {{< quote "I showed up to the workshop with materials familiar to participants. It was stuff they recognized from their childhoods and had in their homes. They were able to be much nimbler with the materials and to engage more deeply in the activity than they would have been had I shown up with pompoms." "— Rahul Bhargava" >}}
 

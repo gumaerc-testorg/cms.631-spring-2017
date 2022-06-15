@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/a10de76407cff4268e09b2de23d9841c_MITCMS_631s17_assn_hubway_retweet.jpg
+file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/a10de76407cff4268e09b2de23d9841c_MITCMS_631s17_assn_hubway_retweet.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

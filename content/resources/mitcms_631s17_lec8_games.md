@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/44d609bed01fac52e0da5a2c450bb4dc_MITCMS_631s17_lec8_games.pdf
+file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/44d609bed01fac52e0da5a2c450bb4dc_MITCMS_631s17_lec8_games.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
