@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'The page gives a detailed description of the final project requirements
+  and a few suggestions. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 49ee1162-96a3-a2a1-b82a-1509dbf30186
 title: Final Project Requirements
 uid: a7948c29-5d38-d3a1-af5d-d7583a5b812d

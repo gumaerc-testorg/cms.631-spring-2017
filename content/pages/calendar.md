@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page summarizes the topic of each class session and key due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e2c05c90-6dc1-1c6d-5551-1af84a235352
 ---

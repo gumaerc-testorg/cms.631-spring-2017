@@ -1,7 +1,11 @@
 ---
 content_type: page
+description: ''
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: f30e545a-eced-a806-975a-ff5e3884df61
 title: Using a Class Blog for Learning
 uid: 2c8c1e3c-49ee-995f-644b-7b77eae017a8

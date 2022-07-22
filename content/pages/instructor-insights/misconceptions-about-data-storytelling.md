@@ -1,7 +1,11 @@
 ---
 content_type: page
+description: ''
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: f30e545a-eced-a806-975a-ff5e3884df61
 title: Misconceptions about Data Storytelling
 uid: f443cf77-0c83-3386-6eb4-1188b7019d8a

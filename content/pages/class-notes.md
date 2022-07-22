@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page presents the agenda for each class session, and lecture notes
+  used for some class sessions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Notes
 uid: 4d6c8832-7eef-adc8-9388-e59d050f3a65
 ---
@@ -67,9 +71,9 @@ Course overview & asking questions
 {{< tdopen >}}
 
 
-[Lecture 1 slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mitcms_631s17_lec1_intro)
+{{% resource_link 1cad38b6-17e6-7bbf-4122-cd1fb252df0b "Lecture 1 slides (PDF - 1.3MB)" %}}
 
-[Lecture 1 notes (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec1_intro_nt)
+{{% resource_link 6d44255f-5a2d-0c5c-2143-88fbdfd57272 "Lecture 1 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -108,9 +112,9 @@ Getting and cleaning data
 {{< tdopen >}}
 
 
-[Lecture 2 slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mitcms_631s17_lec2_data)
+{{% resource_link 0a8c7add-8225-3f8c-d17b-32eee4535775 "Lecture 2 slides (PDF - 1.3MB)" %}}
 
-[Lecture 2 notes (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec2_data_nt)
+{{% resource_link e39149be-d24e-6f4b-a282-9f9acb17c710 "Lecture 2 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -137,9 +141,9 @@ Analyzing data
 {{< tdopen >}}
 
 
-[Lecture 3 slides (PDF - 2.1MB)]({{< baseurl >}}/resources/mitcms_631s17_lec3_anlyze)
+{{% resource_link b40d8a69-f9d9-054f-44bf-319daeda0125 "Lecture 3 slides (PDF - 2.1MB)" %}}
 
-[Lecture 3 notes (PDF - 1.1MB)]({{< baseurl >}}/resources/mitcms_631s17_lec3_analyze_nt)
+{{% resource_link cfa4d05e-21ff-f8cf-f2cc-1cfcd38e62d9 "Lecture 3 notes (PDF - 1.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -166,9 +170,9 @@ Telling a data-driven story
 {{< tdopen >}}
 
 
-[Lecture 4 slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mitcms_631s17_lec4_story)
+{{% resource_link aee56685-1353-5269-b48f-4aa12eabd2cb "Lecture 4 slides (PDF - 2.2MB)" %}}
 
-[Lecture 4 notes (PDF - 1.3MB)]({{< baseurl >}}/resources/mitcms_631s17_lec4_story_nt)
+{{% resource_link 903199df-b3d3-154a-d401-431dbeb5924d "Lecture 4 notes (PDF - 1.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -200,9 +204,9 @@ Overview
 {{< tdopen >}}
 
 
-[Lecture 5 slides (PDF - 1.5MB)]({{< baseurl >}}/resources/mitcms_631s17_lec5_charts)
+{{% resource_link bcc72b19-a3ef-3000-8cc7-33cf3c286df8 "Lecture 5 slides (PDF - 1.5MB)" %}}
 
-[Lecture 5 notes (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec5_charts_nt)
+{{% resource_link 3567cb08-e04e-a5ad-7176-3b1f101f99c1 "Lecture 5 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -274,9 +278,9 @@ Overview
 {{< tdopen >}}
 
 
-[Lecture 6 slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mitcms_631s17_lec6_sculpt)
+{{% resource_link ee593836-56f0-1d5e-9edf-d82bdcf178d7 "Lecture 6 slides (PDF - 1.2MB)" %}}
 
-[Lecture 6 notes (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec6_sculpt_nt)
+{{% resource_link a77d4ed0-62bc-0576-ad2f-5349ff4583d3 "Lecture 6 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -345,9 +349,9 @@ Overview
 {{< tdopen >}}
 
 
-[Lecture 7 slides (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec7_person)
+{{% resource_link ba2881ae-bc9b-e17e-f431-f378d913174e "Lecture 7 slides (PDF)" %}}
 
-[Lecture 7 notes (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec7_person_nt)
+{{% resource_link 32dad581-8a41-fc2f-9a7e-f2886f5e8c32 "Lecture 7 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -433,9 +437,9 @@ Overview
 {{< tdopen >}}
 
 
-[Lecture 8 slides (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec8_games)
+{{% resource_link 44d609be-d01f-ac52-e0da-5a2c450bb4dc "Lecture 8 slides (PDF)" %}}
 
-[Lecture 8 notes (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec8_games_nt)
+{{% resource_link 3a7e12e3-ffb0-49c6-15ef-e4dcc56c17bd "Lecture 8 notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -504,9 +508,9 @@ Overview
 {{< tdopen >}}
 
 
-[Lecture 9 slides (PDF - 1.9MB)]({{< baseurl >}}/resources/mitcms_631s17_lec9_maps)
+{{% resource_link 17c134dc-96dd-c999-8a4c-0e7774a210d2 "Lecture 9 slides (PDF - 1.9MB)" %}}
 
-[Lecture 9 notes (PDF)]({{< baseurl >}}/resources/mitcms_631s17_lec9_maps_nt)
+{{% resource_link 6759cbfc-d3fd-7305-3b4a-dee2ff0fe8a4 "Lecture 9 notes (PDF)" %}}
 
 
 {{< tdclose >}}

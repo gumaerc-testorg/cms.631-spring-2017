@@ -1,13 +1,18 @@
 ---
 content_type: page
+description: This page describes the Donate by Playing board game created by students.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 49ee1162-96a3-a2a1-b82a-1509dbf30186
 title: 'Donate by Playing: A Fundraising Board Game for the International Federation
   of Red Cross and Red Crescent Societies'
 uid: 360d33f9-0d12-9b01-8e99-9a7f4b0198de
 ---
 
-![Image of game board, cards and pieces on a table.]({{< resource_file 36281cf8-7dea-3fc1-ccdf-49a23ac7632b >}})
+{{< resource 36281cf8-7dea-3fc1-ccdf-49a23ac7632b >}}
 
 The Donate by Playing game.
 
@@ -16,11 +21,11 @@ By Reem Alfaiz, Gary Burnett, Phillip D. Graham, and Argyro Nicolaou. (Used with
 Materials
 ---------
 
-[Presentation slides about the game (PDF)]({{< baseurl >}}/resources/mitcms_631s17_assn_game_ifrcslides)
+{{% resource_link e2c7b9a2-8b57-d48f-aa49-0804ed40d61b "Presentation slides about the game (PDF)" %}}
 
-[Game board (JPG - 6.2MB)]({{< baseurl >}}/resources/mitcms_631s17_assn_game_ifrcboard)
+{{% resource_link a377bbf1-8842-eeb1-1d73-49372e15705f "Game board (JPG - 6.2MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Game cards (PDF - 1.2MB)]({{< baseurl >}}/resources/mitcms_631s17_assn_game_ifrccards)
+{{% resource_link aa18516a-d49b-984d-10b3-e18668586556 "Game cards (PDF - 1.2MB)" %}}
 
 Writeup
 -------

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page lists the readings assigned for each class session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 00cc71f5-0edc-6211-dea8-7de61cae8c25
 ---
@@ -92,7 +96,7 @@ DeBarros, A. "[Excel: Extract text with FIND and MID](http://www.anthonydebarros
 
 ### Graduate Reading
 
-Wickham, H. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Tidy Data." (PDF)](http://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) _Journal of Statistical Software_ 59 no. 10 (August 2014).
+Wickham, H. "[Tidy Data." (PDF)](http://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) _Journal of Statistical Software_ 59 no. 10 (August 2014).
 
 
 {{< tdclose >}}
@@ -120,11 +124,11 @@ Robbins, N. "[When Should I Use Logarithmic Scales in My Charts and Graphs?](htt
 
 ### Graduate Readings (focus on high-level takeaways)
 
-Koschinsky, J. "[Data Science for Good: What Problems Fit?" (PDF)]({{< baseurl >}}/resources/mitcms_631s17_koschinsky_2015) (Courtesy of Julia Koschinsky. License CC BY)
+Koschinsky, J. "{{% resource_link 45bf2a26-5814-7876-84eb-9b7e0ec9f44b "Data Science for Good: What Problems Fit?\" (PDF)" %}} (Courtesy of Julia Koschinsky. License CC BY)
 
 Brennan, M. “[Can computers be racist? Big data, inequality, and discrimination.](http://www.fordfoundation.org/ideas/equals-change-blog/posts/can-computers-be-racist-big-data-inequality-and-discrimination/)” Ford Foundation, 2015.
 
-Leskovec, J., A. Rajaraman and J. D. Ullman. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Data Mining.” (PDF)](http://infolab.stanford.edu/~ullman/mmds/ch1.pdf) Chapter 1 (author's manuscript version) in _[Mining of Massive Datasets](http://www.mmds.org/)_. Cambridge University Press, 2011. (Skip the complicated math parts.)
+Leskovec, J., A. Rajaraman and J. D. Ullman. “[Data Mining.” (PDF)](http://infolab.stanford.edu/~ullman/mmds/ch1.pdf) Chapter 1 (author's manuscript version) in _[Mining of Massive Datasets](http://www.mmds.org/)_. Cambridge University Press, 2011. (Skip the complicated math parts.)
 
 
 {{< tdclose >}}
@@ -148,7 +152,7 @@ Zer-Aviv, M. "[Disinformation Visualization: How to lie with datavis](https://vi
 
  Ware, C. "Visual and Verbal Narrative." Chapter 7 in _Visual Thinking for Design_. Morgan Kaufmann, 2008. ISBN: 9780123708960. \[Preview with [Google Books](https://books.google.com/books?id=WBlUgKhMbdsC&lpg=PP1&pg=PA129#v=onepage&q&f=false)\]
 
-Segel, E., and J. Heer. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Narrative visualization: Telling stories with data." (PDF - 1.4MB)](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) _IEEE Transactions on Visualization and Computer Graphics_ 16, no. 6 (2010): 1139-48.
+Segel, E., and J. Heer. "[Narrative visualization: Telling stories with data." (PDF - 1.4MB)](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) _IEEE Transactions on Visualization and Computer Graphics_ 16, no. 6 (2010): 1139-48.
 
 
 {{< tdclose >}}
@@ -228,11 +232,11 @@ Overview
 
 Bertini, E., and M. Stefaner. Episode 17, "[Data Sculptures](http://datastori.es/episode17-data-sculptures/)." _Data Stories_ \[podcast\]. (Listen to the first 27 minutes.)
 
-Jansen, Y., P. Dragicevic, J. A. Isenberg, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Opportunities and Challenges for Data Physicalization." (PDF - 1.6MB)](https://hal.inria.fr/hal-01120152/document). _Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)_, April 2015.
+Jansen, Y., P. Dragicevic, J. A. Isenberg, et al. "[Opportunities and Challenges for Data Physicalization." (PDF - 1.6MB)](https://hal.inria.fr/hal-01120152/document). _Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)_, April 2015.
 
 ### Graduate Readings
 
-Yvonne Jansen, Kasper Hornbæk. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Psychophysical Investigation of Size as a Physical Variable." (PDF - 10MB)](https://hal.inria.fr/hal-01219057/document) _IEEE Transactions on Visualization and Computer Graphics_ 22 no. 1 (2016): 479 - 488.
+Yvonne Jansen, Kasper Hornbæk. "[A Psychophysical Investigation of Size as a Physical Variable." (PDF - 10MB)](https://hal.inria.fr/hal-01219057/document) _IEEE Transactions on Visualization and Computer Graphics_ 22 no. 1 (2016): 479 - 488.
 
 
 {{< tdclose >}}
