@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Image of game, cards and pieces on a tabletop.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Donate by Playing: A Fundraising Board Game for the International Federation
   of Red Cross and Red Crescent Societies'

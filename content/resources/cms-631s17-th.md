@@ -12,6 +12,7 @@ image_metadata:
   image-alt: Animated image of multicolored spiral animation showing global average
     temperature increase.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: cms-631s17-th.jpg

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: "Affluent White Bostonians Unfairly Targeted by Stop and Frisk Practices\u2026\
   Mostly While Leaving SoulCycle"

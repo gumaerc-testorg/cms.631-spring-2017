@@ -5,6 +5,7 @@ file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/45bf2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
