@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/1291d7464e3b7324ff8e1e329d37e206_MITCMS_631s17_assn_hubway_traffic.png
+file: /ol-ocw-studio-app/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/1291d7464e3b7324ff8e1e329d37e206_MITCMS_631s17_assn_hubway_traffic.png
+file_size: 49369
 file_type: image/png
 image_metadata:
   caption: ''
