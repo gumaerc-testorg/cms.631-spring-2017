@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/3567cb08e04ea5ad71763b1f101f99c1_MITCMS_631s17_lec5_charts_nt.pdf
+file: /ol-ocw-studio-app/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/3567cb08e04ea5ad71763b1f101f99c1_MITCMS_631s17_lec5_charts_nt.pdf
+file_size: 995176
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
