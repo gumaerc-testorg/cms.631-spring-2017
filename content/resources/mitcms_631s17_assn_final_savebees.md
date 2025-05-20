@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/8b62597fc5d753895d837c6ab8c10be0_MITCMS_631s17_assn_final_savebees.pdf
+file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/8b62597fc5d753895d837c6ab8c10be0_MITCMS_631s17_assn_final_savebees.pdf
 file_size: 3390906
 file_type: application/pdf
 learning_resource_types: []

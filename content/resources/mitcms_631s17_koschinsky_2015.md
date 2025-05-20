@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/45bf2a265814787684eb9b7e0ec9f44b_MITCMS_631s17_koschinsky_2015.pdf
+file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/45bf2a265814787684eb9b7e0ec9f44b_MITCMS_631s17_koschinsky_2015.pdf
 file_size: 325384
 file_type: application/pdf
 learning_resource_types:
