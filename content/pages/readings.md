@@ -44,7 +44,7 @@ Course overview & asking questions (contd.)
 
 Burghart, B. "[What I’ve Learned from Two Years Collecting Data on Police Killings](http://gawker.com/what-ive-learned-from-two-years-collecting-data-on-poli-1625472836)." *Gawker,* August 2014.
 
-Veltman, N. "[Scraping the web](https://schoolofdata.org/2013/11/25/scraping-the-web/)." *School of Data,* November 2013.
+Veltman, N. "Scraping the web." *School of Data,* November 2013.
 
 ### Graduate Readings
 

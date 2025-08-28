@@ -110,9 +110,9 @@ No homework due
 
 *Suggested datasets:*
 
-Hubway data challenges: [2011-2013](http://hubwaydatachallenge.org/) / [2017](https://blog.bluebikes.com/blog/and-the-2017-hubway-data-challenge-winners-are)
+Hubway data challenges: [2011-2013](http://hubwaydatachallenge.org/)
 
-NYC tree census data: [2015](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35) / [2005](https://data.cityofnewyork.us/Environment/2005-Street-Tree-Census/29bw-z7pj) / [1995](https://data.cityofnewyork.us/Environment/1995-Street-Tree-Census/kyad-zm4j)
+NYC tree census data: [2015](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh/about_data) / [2005](https://data.cityofnewyork.us/Environment/2005-Street-Tree-Census/29bw-z7pj) / [1995](https://data.cityofnewyork.us/Environment/1995-Street-Tree-Census/kyad-zm4j)
 
 World Bank CO2 emissions: [global](https://data.worldbank.org/topic/climate-change) or {{% resource_link "ed5555a5-13ab-dfda-c253-c08fe25b202d" "per country (ZIP)" %}} (This file contains: 2 .csv files.)
 
@@ -326,7 +326,7 @@ Use Tableau or CartoDB to make a map of the Somerville MA tree data
 
 Watch the [Tableau Basic Mapping Tutorial](https://www.tableau.com/learn/tutorials/on-demand/basic-mapping) \[9 min video\] (requires Tableau registration)
 
-[Online Mapping for Beginners](https://carto.com/academy/courses/beginners-course/) tutorials from CartoDb       
+[Online Mapping for Beginners](https://carto.com/academy/courses/beginners-course/) tutorials from CartoDb         
  
 
 {{< tdclose >}}{{< tdopen >}}
