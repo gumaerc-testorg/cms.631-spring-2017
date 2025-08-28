@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/a377bbf18842eeb11d7349372e15705f_MITCMS_631s17_assn_game_ifrcboard.jpg
+file: /ol-ocw-studio-app/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/a377bbf18842eeb11d7349372e15705f_MITCMS_631s17_assn_game_ifrcboard.jpg
 file_size: 6239104
 file_type: image/jpeg
 image_metadata:
