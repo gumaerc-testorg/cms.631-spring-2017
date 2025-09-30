@@ -69,12 +69,12 @@ Create an activity log of all the types of data you create and are captured in d
 
 Download and install the following:
 
-- [Sublime Text](http://www.sublimetext.com/) (or any text editor capable of running regular expressions)
-- [OpenRefine](http://openrefine.org/)
-- [Trifacta Wrangler](https://www.trifacta.com/start-wrangling/) (free with registration)
-- Microsoft Excel, or free [LibreOffice Still](https://www.libreoffice.org/download/libreoffice-still/) if you prefer
-- [Import.io](https://www.import.io/) (open it to sign up)
-- [Jupyter](http://jupyter.readthedocs.io/en/latest/install.html) (if you know how to program in Python)
+- {{% resource_link "86932566-81d4-4f6c-b5f0-d00fef20b83a" "Sublime Text" %}} (or any text editor capable of running regular expressions)
+- {{% resource_link "b9ffd853-c2f5-4db3-bfe2-168d644d8758" "OpenRefine" %}}
+- {{% resource_link "a308ca38-330b-447a-a640-e92546a31595" "Trifacta Wrangler" %}} (free with registration)
+- Microsoft Excel, or free {{% resource_link "a1a8a0e6-08c0-4f2c-926c-cc2d8f89e622" "LibreOffice Still" %}} if you prefer
+- {{% resource_link "6f68e545-e64b-413a-9031-d9d9ad9b96d9" "Import.io" %}} (open it to sign up)
+- {{% resource_link "01f3e9fd-3285-41ba-9c8a-89a71d5d5595" "Jupyter" %}} (if you know how to program in Python)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -86,7 +86,7 @@ Download and install the following:
 
 *Homework 4: Tableau installation*
 
-- Download the most recent version of [Tableau Desktop for students](https://www.tableau.com/academic/students)
+- Download the most recent version of {{% resource_link "bde0dbce-02c4-44f6-8473-11cdcd56d2f6" "Tableau Desktop for students" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -110,11 +110,11 @@ No homework due
 
 *Suggested datasets:*
 
-Hubway data challenges: [2011-2013](http://hubwaydatachallenge.org/)
+Hubway data challenges: {{% resource_link "3ba64209-b94c-4ba4-8310-bf1e463f7126" "2011-2013" %}}
 
-NYC tree census data: [2015](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh/about_data) / [2005](https://data.cityofnewyork.us/Environment/2005-Street-Tree-Census/29bw-z7pj) / [1995](https://data.cityofnewyork.us/Environment/1995-Street-Tree-Census/kyad-zm4j)
+NYC tree census data: {{% resource_link "4838ff84-4d44-4193-aba8-c79864f9a615" "2015" %}} / {{% resource_link "85b9d9b7-fb50-4543-b78a-4542fb799353" "2005" %}} / {{% resource_link "ac20e932-1daf-4877-9bed-1345927042f2" "1995" %}}
 
-World Bank CO2 emissions: [global](https://data.worldbank.org/topic/climate-change) or {{% resource_link "ed5555a5-13ab-dfda-c253-c08fe25b202d" "per country (ZIP)" %}} (This file contains: 2 .csv files.)
+World Bank CO2 emissions: {{% resource_link "35e9935c-ef40-4f81-a2ef-fc7e99508ed0" "global" %}} or {{% resource_link "ed5555a5-13ab-dfda-c253-c08fe25b202d" "per country (ZIP)" %}} (This file contains: 2 .csv files.)
 
 Or any other climate change-related dataset you are really excited about
 
@@ -156,9 +156,9 @@ No homework due
 
 *Suggested datasets:*
 
-[IPCC global temperature projections](http://www.ipcc-data.org/sim/gcm_global/index.html) (2007) from various models (using these [emissions scenarios](https://en.wikipedia.org/wiki/Special_Report_on_Emissions_Scenarios#Scenario_families), global average temperature in Kelvin)
+{{% resource_link "66a3d5e8-4df1-4aa1-8cb4-67556db49142" "IPCC global temperature projections" %}} (2007) from various models (using these {{% resource_link "f525d482-bea8-4240-9a62-98cbbf3a2e58" "emissions scenarios" %}}, global average temperature in Kelvin)
 
-Unofficial unverified [air quality readings in Beijing](http://www.stateair.net/web/historical/1/1.html) from US State Department (judged via this [standard scale (PDF)](https://document.airnow.gov/air-quality-guide-for-particle-pollution.pdf))
+Unofficial unverified {{% resource_link "ecbde5a5-9330-43be-b5c1-64fccca400b5" "air quality readings in Beijing" %}} from US State Department (judged via this {{% resource_link "c94e60d2-643b-42d2-a7cf-8bd0d4419f08" "standard scale (PDF)" %}})
 
 Or the Hubway, NYC Tree, or CO2 emissions data from Sketch 1
 
@@ -194,7 +194,7 @@ Write up your project on the class blog. Start with a summary sentence in the fo
 
 *Sample student work: Data sculptures*
 
-[Fireworks: Fun and Dangerous](http://datastudio2016.datatherapy.org/2016/03/14/368/) (2016)
+{{% resource_link "aa6ed045-a5ba-4718-a802-0137f50a42b1" "Fireworks: Fun and Dangerous" %}} (2016)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -206,7 +206,7 @@ Write up your project on the class blog. Start with a summary sentence in the fo
 
 *Homework 9: How to tell a story (The Moth)*
 
-Read Paige Williams, “[How to tell a story: The Moth](http://niemanstoryboard.org/stories/how-to-tell-a-story-the-moth/).” *Nieman Storyboard* (Harvard), August 2012. Choose and listen to one [Moth Story](https://themoth.org/stories). Write down and bring to class your analysis, as Paige Williams lists in her article’s item #3.
+Read Paige Williams, “{{% resource_link "3dc8d2e1-79bb-4105-8f52-ead2ea3df3a4" "How to tell a story: The Moth" %}}.” *Nieman Storyboard* (Harvard), August 2012. Choose and listen to one {{% resource_link "f6e5657c-8047-47ae-b04b-d51e58b62303" "Moth Story" %}}. Write down and bring to class your analysis, as Paige Williams lists in her article’s item #3.
 
 Fill in the class midterm survey.
 
@@ -214,11 +214,11 @@ Fill in the class midterm survey.
 
 *Suggested datasets:*
 
-Pew Research Center. "[Global Concern about Climate Change, Broad Support for Limiting Emissions](http://www.pewglobal.org/2015/11/05/global-concern-about-climate-change-broad-support-for-limiting-emissions/).” 2015.
+Pew Research Center. "{{% resource_link "189d3c67-e18a-4963-9dbd-08e8cbf38924" "Global Concern about Climate Change, Broad Support for Limiting Emissions" %}}.” 2015.
 
-Compiled public input to the [GoBoston2030 campaign](https://www.boston.gov/departments/transportation/go-boston-2030) \[\_data not available for OCW\_\]
+Compiled public input to the {{% resource_link "a0d86225-744f-4088-82a4-5c96cb258389" "GoBoston2030 campaign" %}} \[\_data not available for OCW\_\]
 
-[Food for Free](http://www.foodforfree.org/) data on food scarcity and food rescue around Boston \[\_data not available for OCW\_\]
+{{% resource_link "1ba7823a-bbcb-4860-b7be-884b259754db" "Food for Free" %}} data on food scarcity and food rescue around Boston \[\_data not available for OCW\_\]
 
 Or any dataset from a previous sketch
 
@@ -268,17 +268,17 @@ No homework due
 
 *Suggested datasets:*
 
-[Hubway data: 2011-2013](http://hubwaydatachallenge.org/)
+{{% resource_link "3ba64209-b94c-4ba4-8310-bf1e463f7126" "Hubway data: 2011-2013" %}}
 
-Kyoto cherry blossom flowering dates: [data](https://www.dropbox.com/s/wd7eghqmiqsg8gu/KyotoFullFlower7.xls?dl=0) and [background](http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/)
+Kyoto cherry blossom flowering dates: {{% resource_link "0b508d97-a7c9-4174-ae59-a36b86b144f0" "data" %}} and {{% resource_link "d2146835-5f42-4cc9-a920-cee0e9e58cad" "background" %}}
 
-[NSIDC Arctic sea ice coverage](http://nsidc.org/data/masie/) (CSV or GeoTIFF files)
+{{% resource_link "6d98cb7a-c2a5-469f-8ca2-994a5c7eaf24" "NSIDC Arctic sea ice coverage" %}} (CSV or GeoTIFF files)
 
-[Somerville MA](https://www.somervillema.gov/) tree data \[\_data not available for OCW\_\]
+{{% resource_link "8fd51e24-016d-41c3-9ce1-bd1f490dcc2c" "Somerville MA" %}} tree data \[\_data not available for OCW\_\]
 
-[NYC tree data](https://data.cityofnewyork.us/browse?q=Street%20Tree%20Census)
+{{% resource_link "a49bf7e2-e0c2-4f19-a2ab-3ddddda6e3fd" "NYC tree data" %}}
 
-[US Fuel Economy measurements](https://www.fueleconomy.gov/feg/download.shtml)
+{{% resource_link "6707236b-3547-48b1-9046-35b9b328d2b3" "US Fuel Economy measurements" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -324,24 +324,24 @@ Write up your project on the class blog. Include a short title for your project,
 
 Use Tableau or CartoDB to make a map of the Somerville MA tree data
 
-Watch the [Tableau Basic Mapping Tutorial](https://www.tableau.com/learn/tutorials/on-demand/basic-mapping) \[9 min video\] (requires Tableau registration)
+Watch the {{% resource_link "51bc6a14-88d5-42f4-8239-b76412bb65e6" "Tableau Basic Mapping Tutorial" %}} \[9 min video\] (requires Tableau registration)
 
-[Online Mapping for Beginners](https://carto.com/academy/courses/beginners-course/) tutorials from CartoDb         
+{{% resource_link "e501e7bd-2791-47ec-9b46-0a0a2b37cd04" "Online Mapping for Beginners" %}} tutorials from CartoDb         
  
 
 {{< tdclose >}}{{< tdopen >}}
 
 *Suggested datasets:*
 
-[NSIDC Arctic sea ice coverage](http://nsidc.org/data/masie/) (CSV or GeoTIFF files)
+{{% resource_link "6d98cb7a-c2a5-469f-8ca2-994a5c7eaf24" "NSIDC Arctic sea ice coverage" %}} (CSV or GeoTIFF files)
 
-[Somerville MA](https://www.somervillema.gov/) tree data \[\_data not available for OCW\_\]
+{{% resource_link "8fd51e24-016d-41c3-9ce1-bd1f490dcc2c" "Somerville MA" %}} tree data \[\_data not available for OCW\_\]
 
-[NYC tree data](https://data.cityofnewyork.us/browse?q=Street%20Tree%20Census)
+{{% resource_link "a49bf7e2-e0c2-4f19-a2ab-3ddddda6e3fd" "NYC tree data" %}}
 
-[2017 USDA bee colony data (PDF)](https://web.archive.org/web/20170809023424/http://usda.mannlib.cornell.edu/usda/current/Hone/Hone-03-22-2017.pdf) by state 
+{{% resource_link "a4eac881-1dac-43b2-b7fa-bd21c70528c8" "2017 USDA bee colony data (PDF)" %}} by state 
 
-[2015 NStar (now Eversource) gas leaks data](https://www.dropbox.com/s/r5zry8fv3acmgol/Ngrid%20leaks%202015%20repaired%20and%20unrepaired%20-%20All.csv?dl=0), from [HEET-MA](https://www.heetma.org/)
+{{% resource_link "2848f608-11f2-434f-bba0-cc8ad0c4b426" "2015 NStar (now Eversource) gas leaks data" %}}, from {{% resource_link "190ac35e-155a-4aff-9b74-4767510203a9" "HEET-MA" %}}
 
 - Leak definitions: Grade 1 is in a contained space and so considered potentially explosive. Grade 2 is near a foundation and so must be watched. Grade 3 is everything else, no matter how big the total volume of emissions.
 

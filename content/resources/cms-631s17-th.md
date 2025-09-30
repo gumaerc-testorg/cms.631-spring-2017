@@ -5,10 +5,10 @@ file: /ol-ocw-studio-app/courses/cms-631-data-storytelling-studio-climate-change
 file_size: 22664
 file_type: image/jpeg
 image_metadata:
-  caption: "What story does this animated graphic tell about climate change? ([Climate\
-    \ Spirals](http://www.climate-lab-book.ac.uk/spirals) image \xA9 Ed Hawkins, License\
-    \ CC BY-SA International 4.0. This content is [excluded from our Creative Commons\
-    \ license](/help/faq-fair-use/).)"
+  caption: "What story does this animated graphic tell about climate change? ({{%\
+    \ resource_link \"fc13ceb0-df4a-413c-9c1e-4dd99356ee41\" \"Climate Spirals\" %}}\
+    \ image \xA9 Ed Hawkins, License CC BY-SA International 4.0. This content is [excluded\
+    \ from our Creative Commons license](/help/faq-fair-use/).)"
   credit: ''
   image-alt: Animated image of multicolored spiral animation showing global average
     temperature increase.
